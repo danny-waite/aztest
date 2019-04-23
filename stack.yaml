@@ -3,7 +3,7 @@ platform:
   azure:
     defaultParam: unknown
 state:
-  repo: test
+  repo: https://github.com/danny-waite/aztest-state
 environments:
   - dev
   - staging
